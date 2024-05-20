@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Éditorial	</title>
+	<atom:link href="/editorial/feed/" rel="self" type="application/rss+xml" />
+	<link>/editorial/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=editorial</link>
+	<description></description>
+	<lastBuildDate>Wed, 27 Sep 2017 02:01:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Par : quelques textes chez Françoise Stéréo &#124; le marcassin envolé		</title>
+		<link>/editorial/#comment-115</link>
+
+		<dc:creator><![CDATA[quelques textes chez Françoise Stéréo &#124; le marcassin envolé]]></dc:creator>
+		<pubDate>Wed, 24 May 2017 18:04:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3334#comment-115</guid>
+
+					<description><![CDATA[[&#8230;] Un nouveau numéro du magasine Françoise Stéréo était lancé hier. Il regroupe plus de vingt textes autour &#171;&#160;du temps comme thème rassembleur, au centre d’une constellation de multiples éléments, de tranches de vie et de considérations théoriques : la famille, la gentrification, les générations, Kant, les pots Mason, la radio, le capitalisme, Harmonium, l’âge, le vieillissement, les vidanges, sky is the limit.&#160;&#187; (vous pouvez lire le reste de l&#8217;éditorial de Laurence ici). [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Un nouveau numéro du magasine Françoise Stéréo était lancé hier. Il regroupe plus de vingt textes autour &laquo;&nbsp;du temps comme thème rassembleur, au centre d’une constellation de multiples éléments, de tranches de vie et de considérations théoriques : la famille, la gentrification, les générations, Kant, les pots Mason, la radio, le capitalisme, Harmonium, l’âge, le vieillissement, les vidanges, sky is the limit.&nbsp;&raquo; (vous pouvez lire le reste de l&rsquo;éditorial de Laurence ici). [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

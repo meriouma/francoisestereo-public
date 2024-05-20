@@ -1,0 +1,24 @@
+.fleches {
+	margin-top: 25px;
+}
+
+.chambre-x {
+	margin-bottom: 10px;
+	line-height: 50px;
+	font-size: 2.4em; 
+}
+
+.glyphleches {
+	font-size: 6rem;
+}
+
+a, a:active, a:hover, a:focus {
+	text-decoration: none;
+	color: white;
+	text-shadow: none;
+    transition: text-shadow 0.5s;
+}
+
+a:hover {
+	text-shadow: 10px 10px 10px grey;
+}

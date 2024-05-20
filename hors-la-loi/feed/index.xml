@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Hors-la-loi	</title>
+	<atom:link href="/hors-la-loi/feed/" rel="self" type="application/rss+xml" />
+	<link>/hors-la-loi/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hors-la-loi</link>
+	<description></description>
+	<lastBuildDate>Fri, 23 Oct 2015 20:53:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Par : Mettre la hache de Pattie O’Green &#124; Le bal des absentes		</title>
+		<link>/hors-la-loi/#comment-35</link>
+
+		<dc:creator><![CDATA[Mettre la hache de Pattie O’Green &#124; Le bal des absentes]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2015 20:53:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1538#comment-35</guid>
+
+					<description><![CDATA[[&#8230;] Pour poursuivre la réflexion, un article de l’auteure dans ce texte publié dans Françoise Stéréo : Hors-la-loi. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Pour poursuivre la réflexion, un article de l’auteure dans ce texte publié dans Françoise Stéréo : Hors-la-loi. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

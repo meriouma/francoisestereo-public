@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Quelques femmes scientifiques à découvrir	</title>
+	<atom:link href="/quelques-femmes-scientifiques-a-decouvrir/feed/" rel="self" type="application/rss+xml" />
+	<link>/quelques-femmes-scientifiques-a-decouvrir/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=quelques-femmes-scientifiques-a-decouvrir</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Oct 2016 12:01:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+</channel>
+</rss>
