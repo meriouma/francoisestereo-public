@@ -769,6 +769,10 @@ body .sd-social-icon .sd-content li.share-custom a span {
 	font-family: "Open Sans", sans-serif;
 }
 
+.sharedaddy.sd-sharing-enabled {
+	display: none;
+}
+
 @media print {
 	.sharedaddy.sd-sharing-enabled {
 		display: none;
